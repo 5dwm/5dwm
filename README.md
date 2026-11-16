@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Theus24/Theus24/refs/heads/main/assets/gato.png" width="400">
 </div>
 
-<h1 align="center">Matheus Garcia 👋</h1>
+<h1 align="center">Matheus Garcia De Oliveira Portella👋</h1>
 
 <p align="center">
 16 y/o • Software Developer • Brazil 🇧🇷
